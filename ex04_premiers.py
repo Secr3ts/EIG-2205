@@ -15,12 +15,12 @@ def main():
     """
     Print the first 100 prime numbers.
     """
-    j = 0;
+    ctr = 0;
     i = 2;
-    while j < 100:
+    while ctr < 100:
         if est_premier(i):
             print(i);
-            j += 1;
+            ctr += 1;
         i += 1;
 
 if __name__ == '__main__':
