@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HMBGEJ6PG71601FCR0GNHZZE
-  version: v2.2
----
-
 # EIG-2205 Python Files
 
 This repository contains the Python files for the EIG-2205 course.
